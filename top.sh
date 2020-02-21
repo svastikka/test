@@ -1,1 +1,1 @@
-top
+sudo top
