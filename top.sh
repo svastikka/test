@@ -1,1 +1,2 @@
-sudo top
+#!/bin/sh
+top
