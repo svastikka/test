@@ -2,4 +2,4 @@
 #!/bin/sh
 TERM=vt100
 export TERM
-useradd $user
+useradd ANJU
